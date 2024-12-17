@@ -1,0 +1,30 @@
+{
+    "header": {
+        "items": [
+            {
+                "title": "Trang chủ",
+                "subtitle": ""
+            },
+            {
+                "title": "Bảng giá",
+                "subtitle": "Your Secure Proxy Service"
+            },
+            {
+                "title": "FAQ",
+                "subtitle": "Your Secure Proxy Service"
+            },
+            {
+                "title": "Liên hệ",
+                "subtitle": "Your Secure Proxy Service"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Vietnamese"
+            },
+            {
+                "name": "English"
+            }
+        ]
+    }
+}
