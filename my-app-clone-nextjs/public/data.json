@@ -54,5 +54,26 @@
                 "subTitle": ["Chính Sách Bảo Mật", "Chính Sách Cookie", "Dieu khoan", "Chinh sach hoan tien"]
             }
         ]
+    },
+
+    "p2p": {
+        "title": "The best Proxy solution for MMO",
+        "subTitle": "Chúng tôi cung cấp hơn 62 triệu IP proxy từ 220+ quốc gia, hỗ trợ kết nối an toàn, ổn định, đáp ứng các nhu cầu như ẩn danh, bypass, automation và data scraping.",
+        "firstButton": "Truy cap",
+        "secondButton": "Bang gia - chi $0.99",
+        "proxyItems": [
+            {
+                "title": "Proxy Sạch",
+                "subbTitle": "Giải pháp an toàn, tăng cường bảo mật và tối ưu hiệu suất kết nối."
+            },
+            {
+                "title": "Không lưu nhật ký",
+                "subbTitle": "Chúng tôi bảo vệ quyền riêng tư của bạn bằng cách không ghi lại hoạt động nào, đảm bảo dữ liệu an toàn và lướt web riêng tư."
+            },
+            {
+                "title": "Kết nối nhanh",
+                "subbTitle": "Tận hưởng tốc độ vượt trội với dịch vụ proxy tối ưu của chúng tôi. Giảm độ trễ, tăng tốc phản hồi, mang đến trải nghiệm duyệt web, phát trực tuyến và làm việc trực tuyến mượt mà hơn bao giờ hết."
+            }
+        ]
     }
 }
