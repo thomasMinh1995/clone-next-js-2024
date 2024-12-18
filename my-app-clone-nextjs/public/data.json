@@ -26,5 +26,33 @@
                 "name": "English"
             }
         ]
+    },
+
+    "footer": {
+        "paragraph": {
+            "content": "NetProxy.io cung cấp proxy dân cư, giúp truy cập ẩn danh, an toàn, hỗ trợ thu thập dữ liệu và nghiên cứu thị trường nhanh chóng, đáng tin cậy."
+        },
+        "telegram": {
+            "title": "Tham gia Telegram cua chung toi",
+            "contet": "Nhap de tham gia telegram cua chung toi"
+        },
+        "items" : [
+            {
+                "title": "Tai khoan",
+                "subTitle": ["Tạo tài khoản", "Dang nhap"]
+            },
+            {
+                "title": "Đại Lý",
+                "subTitle": ["Đại Lý Phân Phối", "Tiếp Thị Liên Kết"]
+            },
+            {
+                "title": "Danh Mục",
+                "subTitle": ["FAQs", "Bảng Giá", "Liên Hệ"]
+            },
+            {
+                "title": "Điều Khoản",
+                "subTitle": ["Chính Sách Bảo Mật", "Chính Sách Cookie", "Dieu khoan", "Chinh sach hoan tien"]
+            }
+        ]
     }
 }
